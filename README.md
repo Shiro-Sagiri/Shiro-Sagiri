@@ -49,7 +49,8 @@
 <hr/>
 
 ### 🏆 Github Stats ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiro-Sagiri&count_private=true&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiro-Sagiri&count_private=true&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

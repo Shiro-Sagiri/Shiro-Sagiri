@@ -53,10 +53,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Shiro-Sagiri/sky-take-out">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=sky-take-out" />
 </a>&nbsp;
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://https://github.com/Shiro-Sagiri/Vue3-big-event-admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Vue3-big-event-admin" />
 </a>
 

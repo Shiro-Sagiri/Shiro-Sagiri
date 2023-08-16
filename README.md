@@ -48,7 +48,8 @@
 <hr/>
 
 ### 🏆 Github Stats ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Shiro-Sagiri&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Shiro-Sagiri&hide=contribs&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<hr/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide=contribs&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<hr/>
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>

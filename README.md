@@ -56,7 +56,7 @@
 <a href="https://github.com/Shiro-Sagiri/sky-take-out">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=sky-take-out" />
 </a>&nbsp;
-<a href="https://https://github.com/Shiro-Sagiri/Vue3-big-event-admin">
+<a href="https://github.com/Shiro-Sagiri/Vue3-big-event-admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Vue3-big-event-admin" />
 </a>
 

@@ -62,8 +62,8 @@
 <a href="https://github.com/Shiro-Sagiri/big-event-admin-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=big-event-admin-backend" />
 </a>&nbsp;
-<a href="https://github.com/Shiro-Sagiri/soj-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-frontend" />
+<a href="https://github.com/Shiro-Sagiri/soj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj" />
 </a>
 
 <hr/>

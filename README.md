@@ -1,7 +1,7 @@
 # 👋🏻 Hello
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img width="200" height="200" src="https://avatars.githubusercontent.com/u/108655694?v=4"/>
 </div>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
@@ -9,7 +9,7 @@
 - 🔭 I’m a Student Software Engineer from Nanchang Hangkong University
 - 💬 Ask me about Java, TypeScript and my projects
 ### ✔️ I'm currently learning
-- Vue (Website frontend design)
+- Python (Script)
 - Java (Web app)
 
 ## Technologies I'm Learning :books:
@@ -53,21 +53,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Sagiri&hide_title=true&hide_border=true&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
-<a href="https://github.com/Shiro-Sagiri/sky-take-out">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=sky-take-out" />
-</a>&nbsp;
-<a href="https://github.com/Shiro-Sagiri/Vue3-big-event-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Vue3-big-event-admin" />
+<a href="https://github.com/Shiro-Sagiri/Shiro-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Shiro-Generator" />
 </a>
-<a href="https://github.com/Shiro-Sagiri/big-event-admin-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=big-event-admin-backend" />
-</a>&nbsp;
+<hr/>
 <a href="https://github.com/Shiro-Sagiri/soj-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-backend" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-backend" />
 </a>
 <a href="https://github.com/Shiro-Sagiri/soj-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-frontend" />
-</a>&nbsp;
+  <img align= "right" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-frontend" />
+</a>
 
-<hr/>
+<hr />
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>

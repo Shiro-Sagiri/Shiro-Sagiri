@@ -56,13 +56,9 @@
 <a href="https://github.com/Shiro-Sagiri/Shiro-Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Shiro-Generator" />
 </a>
+<a href="https://github.com/Shiro-Sagiri/Shiro-OJ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=Shiro-OJ" />
+</a>
 <hr/>
-<a href="https://github.com/Shiro-Sagiri/soj-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-backend" />
-</a>
-<a href="https://github.com/Shiro-Sagiri/soj-frontend">
-  <img align= "right" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiro-Sagiri&repo=soj-frontend" />
-</a>
 
-<hr />
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
